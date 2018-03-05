@@ -1,0 +1,2 @@
+# vtipnynazev
+str 18
